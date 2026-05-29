@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/calculator/__init__.py
+src/calculator/operation.py
+src/gitaction.egg-info/PKG-INFO
+src/gitaction.egg-info/SOURCES.txt
+src/gitaction.egg-info/dependency_links.txt
+src/gitaction.egg-info/top_level.txt
+tests/test_operations.py
